@@ -24,7 +24,7 @@ The first step when cleaning data should be to check for any duplicate values to
 
 ### Data Type Formatting 
 
-When opening the CSV file of the original data, Excel did not assign the correct data type for the columns that involve currency such as [PriceEach],[Sales] and [MSRP]. I chose the Accounting format for better alignment and readability, as well as to prevent future calculation errors.
+When opening the CSV file of the original data, Excel did not assign the correct data type for the columns that involve currency such as **PriceEach**,**Sales** and **MSRP**. I chose the Accounting format for better alignment and readability, as well as to prevent future calculation errors.
 
 ### Handling Categorical Data
 
